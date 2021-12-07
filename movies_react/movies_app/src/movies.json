@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Avengers: Infinity War (2018)",
+    "rating": "7.5",
+    "director": "Anthony Russo",
+    "cast": "Robert Downey Jr, Chris Evans, Chris Hemsworth",
+    "release": "26 April 2018",
+    "runtime": "2h 29min",
+    "img": "images/uploads/avengers.jpg",
+    "description": "Earth's mightiest heroes must come together and learn to fight as a team if they are to stop the mischievous Thanos from enslaving humanity..."
+  },
+  {
+    "title": "The Batman (2022)",
+    "rating": "9.1",
+    "director": "Matt Reeves",
+    "cast": "Robert Pattinson, Paul Dano, Collin Farrel",
+    "release": "4 March 2022",
+    "runtime": "3h 02min",
+    "img": "images/uploads/batman.jpg",
+    "description": "Action-packed thriller that depicts Batman in his early years, struggling to balance rage with righteousness as he investigates a disturbing mystery that has terrorized Gotham. ..."
+  },
+  {
+    "title": "Blade (1998)",
+    "rating": "6.5",
+    "director": "Stephen Norrington",
+    "cast": "Wesley Snipes, Sanaa Lathan, Stephen Dorff",
+    "release": "10 Dec 1998",
+    "runtime": "2h 00min",
+    "img": "images/uploads/blade.jpg",
+    "description": "A half-vampire, half-mortal man becomes a protector of the mortal race, while slaying evil vampires. In a world where vampires walk the earth."
+  },
+  {
+    "title": "Memento (2000)",
+    "rating": "8.4",
+    "director": "Christopher Nolan",
+    "cast": "Guy Pearce, Mark Boone, Harriet Sansom",
+    "release": "7 Feb 2002",
+    "runtime": "1h 53min",
+    "img": "images/uploads/memento.jpg",
+    "description": "A memory inside a memory, Memento is a complicated head spinning adventure. Leonard is determined to avenge his wife's murder. ..."
+  },
+  {
+    "title": "Pulp Fiction (1994)",
+    "rating": "8.9",
+    "director": "Quentin Tarantino",
+    "cast": "Uma Thurman, Jonh Travolta, Samuel L. Jackson",
+    "release": "16 Feb 1994",
+    "runtime": "2h 34min",
+    "img": "images/uploads/pulp-fiction.jpg",
+    "description": "Faced with life's cruel irony, the unpredictable stories of a well-dressed pair of low-level hitmen; a gangster's statuesque moll, and a double-crossing prizefighter."
+  },
+  {
+    "title": "Star Wars (2015)",
+    "rating": "7.8",
+    "director": "J.J Abrams",
+    "cast": "Daisy Ridley, Adam Driver, Oscar Isaac",
+    "release": "17 Dec 2015",
+    "runtime": "2h 16min",
+    "img": "images/uploads/star-wars.jpg",
+    "description": "Set thirty years after Return of the Jedi, The Force Awakens follows Rey, Finn, Poe Dameron, and Han Solo's search for Luke Skywalker and their fight in the Resistance."
+  },
+  {
+    "title": "Thor (2013)",
+    "rating": "6.8",
+    "director": "Alan Taylor",
+    "cast": "Chris Hemsworth, Natalie Portman",
+    "release": "21 Nov 2013",
+    "runtime": "1h 52min",
+    "img": "images/uploads/thor.jpg",
+    "description": "When the Dark Elves attempt to plunge the universe into darkness, Thor must embark on a perilous and personal journey that will reunite him with doctor Jane Foster."
+  },
+  {
+    "title": "Toy Story (1995)",
+    "rating": "7.7",
+    "director": "John Lasseter",
+    "cast": "Tom Hanks, Laurie Metcalf",
+    "release": "14 Mar 1995",
+    "runtime": "1h 21min",
+    "img": "images/uploads/toy-story.png",
+    "description": "A cowboy doll is profoundly threatened and jealous when a new spaceman figure supplants him as top toy in a boy's room."
+  },
+  {
+    "title": "Tron (2010)",
+    "rating": "5.6",
+    "director": "Joseph Kosinski",
+    "cast": "Olivia Wilde, Garret Hedlund",
+    "release": "16 Dec 2010",
+    "runtime": "2h 7min",
+    "img": "images/uploads/tron-legacy.jpg",
+    "description": "The son of a virtual world designer goes looking for his father and ends up inside the digital world that his father designed."
+  },
+  {
+    "title": "Up (2009)",
+    "rating": "8.2",
+    "director": "Pete Docter",
+    "cast": "Jordan Nagain, Ed Asner",
+    "release": "11 Jun 2009",
+    "runtime": "1h 36min",
+    "img": "images/uploads/up.jpg",
+    "description": "78-year-old Carl Fredricksen travels to Paradise Falls in his house equipped with balloons, inadvertently taking a young stowaway."
+  }
+]
